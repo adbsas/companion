@@ -13,6 +13,6 @@ Typical usage:
 then connect to http://127.0.0.1/
 
 Some information on the JSON protocol used is here:
-
+مانفع والله
  https://docs.google.com/document/d/12IQFXDRIif06BiriHSCGdiJGZ6zsQ_phQsG_iI6_MAo/edit?usp=sharing
  
